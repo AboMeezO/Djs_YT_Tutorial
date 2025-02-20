@@ -1,0 +1,17 @@
+**/node_modules/
+**/package-lock.json
+
+**/.env
+**/.npm
+**/.config/
+**/.
+
+**/*.log
+
+**/dist/
+**/build/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
