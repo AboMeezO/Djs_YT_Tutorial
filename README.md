@@ -8,4 +8,4 @@
 
 ## 🔗 روابط مهمة
 - قناة يوتيوب: [رابط القناة](https://www.youtube.com/@AboMeezO)
-- قائمة تشغيل السلسلة: [رابط السلسلة](https://www.youtube.com/playlist?list=PLMJnT5zphbS7BK59w63IrF1Nlj9XIDlYK
+- قائمة تشغيل السلسلة: [رابط السلسلة](https://www.youtube.com/playlist?list=PLMJnT5zphbS7BK59w63IrF1Nlj9XIDlYK)
